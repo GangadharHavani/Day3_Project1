@@ -1,0 +1,22 @@
+body{
+    background-color:bisque;
+
+}
+
+h1{
+    color:cadetblue;
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+
+}
+
+h2{
+    color: cornflowerblue;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+p{
+    color:brown;
+}
